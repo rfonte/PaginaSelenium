@@ -4,17 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Página inicial</title>
+<title>Página Inicial</title>
 </head>
 <body>
- <h2>Formulário</h2>
+ <h2>Formulario</h2>
  
  <form action="resultado.jsp" method="POST">
  	<p>
  		Digite um nome:
  		<input type='text' name='nome'/>
  	</p>
- 	<P><input type='submit' value='Enviar'/></P>
+ 	<P><input type='submit' value='Enviar' class="btn_enviar"/></P>
  </form>
  
 </body>
