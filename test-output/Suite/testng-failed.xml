@@ -5,8 +5,9 @@
     <classes>
       <class name="Testing.TesteCampoDados">
         <methods>
+          <include name="afterTest"/>
           <include name="beforeTest"/>
-          <include name="f"/>
+          <include name="ValidaResultado"/>
         </methods>
       </class> <!-- Testing.TesteCampoDados -->
     </classes>

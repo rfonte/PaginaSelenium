@@ -7,7 +7,7 @@
 <title>Resultado</title>
 </head>
 <body>
-	<p>Texto digitado: 
+	<p class="texto_resultado">Texto digitado: 
 		<%
 			String texto=request.getParameter("nome");
 			out.println(texto);
